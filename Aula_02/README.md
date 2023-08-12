@@ -24,5 +24,5 @@
 Se estiver parecido com está imagem abaixo tudo deu certo 
 
 <div align="center">
-  <img src="https://github.com/jeovanedossantossantos/Curso_Pyhton_para_Web/assets/60934938/7ccc73d0-864b-4830-a6b0-f2bcace51b7a" width=300/>
+  <img src="https://github.com/jeovanedossantossantos/Curso_Pyhton_para_Web/assets/60934938/7ccc73d0-864b-4830-a6b0-f2bcace51b7a" width=700/>
 </div>
