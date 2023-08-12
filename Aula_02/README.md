@@ -26,3 +26,7 @@ Se estiver parecido com está imagem abaixo tudo deu certo
 <div align="center">
   <img src="https://github.com/jeovanedossantossantos/Curso_Pyhton_para_Web/assets/60934938/7ccc73d0-864b-4830-a6b0-f2bcace51b7a" width=700/>
 </div>
+
+5 - ```pip freeze > requirements.txt``` ele criar o arquivo .txt e coloca dentro dele todas as dependencias do seu projeto, e importante fazer isso pois que for executar seu projeto vai ficar sabendo quis pacotes você uso.
+
+6 - ```pip install -r .\requirements``` instala todas as dependencias, lembre de antes de executar esse comando criar uma venv para o projeto.
